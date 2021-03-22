@@ -28,7 +28,7 @@ Read this in [English](https://snowtrash.github.io)
     { "Id": 003 , 
     "autor":"(Tom Leinster, 2014)",
     "content": "La teoría de categorias toma el punto de vista de un pájaro en las matemáticas. Desde lo alto en el cielo, los detalles se vuelven invisibles, pero podemos descubrir patrones que hubiera sido imposible de descubrir en el suelo.",
-    "book": Basic Category Theory
+    "book": "Basic Category Theory"
     }          ]
 }
 ```
