@@ -14,21 +14,21 @@ Read this in [English](https://snowtrash.github.io)
 ```Json
 { "Lifequotes" :[
     { "Id": 001 , 
-    autor:(William Gibson, 1984)
-    content:“un mundo artificial infinito donde los humanos navegan en un espacio de información básica (...) una alucinación consensuada (...) una interfaz conectada a un mundo intangible detrás de la pantalla”
-    book: Neuromante
+    "autor":"(William Gibson, 1984)",
+    "content": "un mundo artificial infinito donde los humanos navegan en un espacio de información básica (...) una alucinación consensuada (...) una interfaz conectada a un mundo intangible detrás de la pantalla",
+    "book": "Neuromante",
     }
 
      { "Id": 002 , 
-    autor:(Gottfried Leibniz, 1714)
-    content:“"Cada porción de la materia puede ser concebida como un jarídn lleno de plantas y un estanque lleno de peces. Pero cada rama de un a planta, cada miembro de un animal, cada gota de sus humores, es todavía un jardín o un estanque semejante"”
-    book: Monadologia
+    "autor":"(Gottfried Leibniz, 1714)",
+    "content": "Cada porción de la materia puede ser concebida como un jarídn lleno de plantas y un estanque lleno de peces. Pero cada rama de un a planta, cada miembro de un animal, cada gota de sus humores, es todavía un jardín o un estanque semejante",
+    "book": "Monadologia"
     }
 
     { "Id": 003 , 
-    autor:(Tom Leinster, 2014)
-    content:”La teoría de categorias toma el punto de vista de un pájaro en las matemáticas. Desde lo alto en el cielo, los detalles se vuelven invisibles, pero podemos descubrir patrones que hubiera sido imposible de descubrir en el suelo.”
-    book: Basic Category Theory
+    "autor:"(Tom Leinster, 2014)"
+    "content: "La teoría de categorias toma el punto de vista de un pájaro en las matemáticas. Desde lo alto en el cielo, los detalles se vuelven invisibles, pero podemos descubrir patrones que hubiera sido imposible de descubrir en el suelo.",
+    "book": Basic Category Theory
     }          ]
 }
 ```
