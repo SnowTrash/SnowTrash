@@ -33,12 +33,11 @@ Read this in [English](https://snowtrash.github.io)
 }
 ```
 ##  :calendar: Yo actualmente  ...
-Soy estudiante de 5to Semestre de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI), soy un apasionado del Open source :heart: , la lectura y programación.
+Soy estudiante de 8vo Semestre de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI), soy un apasionado del Open source :heart: , la lectura y programación.
 
 ### :books: Estoy aprendiendo:
     - React-Native
     - Haskell
-    - AWS
 
 ### Lenguajes y Herramientas : 
 
@@ -74,9 +73,9 @@ Soy estudiante de 5to Semestre de la Licenciatura en Ingeniería Informática de
 
 ```haskell
 me = do
-    print "1.- GosthWritting de un doctorado en Formación didáctica"
+    print "1.- GosthWritting de Formación didáctica"
     Facebook Pages <- Creación de contenido digital
-    print("Y un poco de redacción de contenido académico" ++ ver peliculas, series y escuchar mucha, mucha música)
+    print("Y un poco de" ++ "ver peliculas, series y escuchar mucha, mucha música")
 
 f x y =  x + y
 
