@@ -36,8 +36,9 @@ Read this in [English](https://snowtrash.github.io)
 Soy estudiante de 8vo Semestre de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI), soy un apasionado del Open source :heart: , la lectura y programación.
 
 ### :books: Estoy aprendiendo:
-    - React-Native
-    - Haskell
+    - Programación
+    - html-css-js
+    - alguna cosa rara
 
 ### Lenguajes y Herramientas : 
 
@@ -85,10 +86,6 @@ f x y =  x + y
 </a>
 
 ![SnowTrash github stats](https://github-readme-stats.vercel.app/api?username=SnowTrash&show_icons=true&title_color=b3b3ff&icon_color=b380ff&text_color=9999ff&bg_color=400080)
-
-
-
-
 
 <!--
 **SnowTrash/SnowTrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
