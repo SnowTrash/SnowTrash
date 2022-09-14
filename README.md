@@ -46,7 +46,6 @@ Soy estudiante de 8vo Semestre de la Licenciatura en Ingeniería Informática de
 [![](https://img.shields.io/badge/C++-%7C-yellowgreen)](https://github.com/SnowTrash/Solutions)
 [![](https://img.shields.io/badge/Web%20Designing-%3C%2F%3E-blueviolet)](https://snowtrash.github.io)
 [![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)](https://github.com/SnowTrash/Solutions)
-[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/SnowTrash/CT4all)](https://github.com/SnowTrash/CT4all)
 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://snowtrash.github.io)](https://snowtrash.github.io)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://snowtrash.github.io)](https://snowtrash.github.io) 
