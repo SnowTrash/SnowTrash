@@ -1,9 +1,9 @@
 ###  Hola! me llamo [Juan Vargas](https://snowtrash.github.io)
 ![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic" alt="SnowTrash" /> </p>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/juanvargasudg/)
+![<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/juanvargasudg/)
 <!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://snowtrash.github.io)
+![<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://snowtrash.github.io)
 
 ```Json
 { "Lifequotes" :[
@@ -55,10 +55,10 @@ Estudio el 10mo Semestre de la Licenciatura en Ingeniería Informática del Cent
 
 **Herramientas:**
 ![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
-![Laravel](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
-![Vue](https://img.shields.io/badge/-000000?style=flat&logo=Vue&logoColor=006666)
+[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
+![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)
 <!--[Vite??]-->
-[![Flutter](https://github.com/SnowTrash/SnowTrash.github.io)
+[![Flutter](https://img.shields.io/badge/-Flutter-0000FF?style=flat&logo=Flutter&logoColor=white&link=https://github.com/SnowTrash/SnowTrash.github.io)](link)
 <!--Hacer Portfolio paginas de ejemplo con 3D-->
 <!--[Mete el juego en una app de flutter o ya muevele]-->
 
@@ -67,8 +67,9 @@ Estudio el 10mo Semestre de la Licenciatura en Ingeniería Informática del Cent
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SnowTrash/SnowTrash.github.io/network)](https://github.com/SnowTrash/SnowTrash.github.io/network)
 
 ### Design
-[![Blender](https://Agregaralgunrepodemodelos)]
-[![THREE.js](Agregar un ejemplo de Three)]
+[![Blender](https://img.shields.io/badge/Blender-060503?style=flat&logo=blender&logoColor=ff8b02&link=https:AlgunREPOSITORIOPARAMODELOS)](link)
+[![THREE.js](https://img.shields.io/badge/THREEjs-Trois-6a329f?style=flat&logo=WebGL&logoColor=cc0000&link=https:Agregacomponents3D)](link)
+<!--[Agregar repositorio de modelos]-->
 <!--[![KRITA?? ya dibuja]()]-->
 
 <a href="https://github.com/SnowTrash">
