@@ -1,9 +1,9 @@
 ###  Hola! me llamo [Juan Vargas](https://snowtrash.github.io)
 ![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic" alt="SnowTrash" /> </p>
-[![<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/juanvargasudg/)
+[!<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/juanvargasudg/)
 <!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
-[![<img src="https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge">](https://snowtrash.github.io)
+[!<img src="https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge">(https://snowtrash.github.io)
 
 ```Json
 { "Lifequotes" :[
