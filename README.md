@@ -1,10 +1,9 @@
 ###  Hola! me llamo [Juan Vargas](https://snowtrash.github.io)
-![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic" alt="SnowTrash" /> </p>
 
+![](https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic)
+![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juanvargasudg/)](link)
 <!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
-
 [![](https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge&link=https://snowtrash.github.io)](link)
 <!--[Crear un portfolio con flutter??]-->
 
@@ -31,7 +30,7 @@
 }
 ```
 ##  :calendar: Yo actualmente  ...
-Estudio el 10mo Semestre de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) soy apasionado del Open source :heart: la lectura y el mundo digital.
+Estudio el 10mo Semestre de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) de la UDG soy apasionado del Open source la lectura y el mundo digital :heart: .
 
 ### :books: Estoy aprendiendo:
     - Programacion web
@@ -47,22 +46,22 @@ Estudio el 10mo Semestre de la Licenciatura en Ingeniería Informática del Cent
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![TailwindCss](https://img.shields.io/badge/-Tailwndcss-bcbcbc?style=flat&logo=tailwindcss&logoColor=6fa8dc&link=https://github.com/SnowTrash/Iarte_2024)](link)
 
-
-[![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)](https://github.com/SnowTrash/pyHikethroug)
 <!--[Reconstruir el ejemplo de los tragos Python/Dash hacer mas python]-->
 
+[![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)](https://github.com/SnowTrash/pyHikethroug)
 [![](https://img.shields.io/badge/-GDScript-bcbcbc?style=flat&logo=GodotEngine&logoColor=3d85c6)](https://github.com/SnowTrash/GODOTPROJECT)
-<!--[Redes neuronales Godot]-->
-
 [![](https://img.shields.io/badge/C++-%7C-yellowgreen)](https://github.com/SnowTrash/AGREGACODIGOPASADO)
+<!--[Redes neuronales Godot]-->
 <!--[Ejemplos de Estructuras de datos viejos c++ y matlab o algo asi]-->
-
+<!--[Saca los ejercicios en Octave y Matlab oke]-->
 **Herramientas:**
+
 ![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
 [![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
 ![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)
-<!--[Vite??]-->
 [![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/SnowTrash.github.io)](link)
+
+<!--[Vite??]-->
 <!--Hacer Portfolio paginas de ejemplo con 3D-->
 <!--[Meter el juego en una app de flutter o ya muevele]-->
 
@@ -70,11 +69,10 @@ Estudio el 10mo Semestre de la Licenciatura en Ingeniería Informática del Cent
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SnowTrash/SnowTrash.github.io/network)](https://github.com/SnowTrash/SnowTrash.github.io/network) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SnowTrash/SnowTrash.github.io/network)](https://github.com/SnowTrash/SnowTrash.github.io/network)
 
-### Design
+### Diseño 3D
 [![Blender](https://img.shields.io/badge/Blender-060503?style=flat&logo=blender&logoColor=ff8b02&link=https:AlgunREPOSITORIOPARAMODELOS)](link)
 [![THREE.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=THREE.js&logoColor=ffffff&link=https:Agregacomponents3D)](link)
 <!--[Agregar repositorio de modelos]-->
-<!--[![KRITA?? ya dibuja]()]-->
 
 <a href="https://github.com/SnowTrash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowTrash&theme=dark">
