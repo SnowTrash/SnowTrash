@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic)
 ![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juanvargasudg/)](link)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juanvargasudg/)](https://snowblog-9121b.web.app/)
 <!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
-[![](https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge&link=https://snowtrash.github.io)](link)
+[![](https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge&link=https://snowtrash.github.io)](www.linkedin.com/in/juanvargasudg)
 <!--[Crear un portfolio con flutter??]-->
 
 
@@ -30,7 +30,7 @@
 }
 ```
 ##  :calendar: Yo actualmente  ...
-Pasante (casi_egresado) de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) de la UDG :heart: apasionado del Open source la lectura y el mundo digital.
+Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) UDG :heart: apasionado del Open source la lectura y el mundo digital.
 
 ### :books: Estoy aprendiendo:
     - Alguna cosa rara
@@ -60,7 +60,7 @@ Pasante (casi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 
 **Herramientas:**
 
-![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
+![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=red)
 [![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
 ![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)
 [![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/SnowTrash.github.io)](link)
