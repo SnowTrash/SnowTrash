@@ -30,18 +30,20 @@
 }
 ```
 ##  :calendar: Yo actualmente  ...
-Estudio el 10mo Semestre de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) de la UDG soy apasionado del Open source la lectura y el mundo digital :heart: .
+Pasante (casi_egresado) de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) de la UDG :heart: apasionado del Open source la lectura y el mundo digital.
 
 ### :books: Estoy aprendiendo:
+    - Alguna cosa rara
     - Programacion web
     - Ciencia de datos
-    - alguna cosa rara
+    - Mate
 
 ### Lenguajes y Herramientas : 
 
 **Lenguajes:**
 <!--[Hacer algo con D3]-->
 <!--[Hacer Charts Chidotas]-->
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![TailwindCss](https://img.shields.io/badge/-Tailwndcss-bcbcbc?style=flat&logo=tailwindcss&logoColor=6fa8dc&link=https://github.com/SnowTrash/Iarte_2024)](link)
@@ -54,6 +56,8 @@ Estudio el 10mo Semestre de la Licenciatura en Ingeniería Informática del Cent
 <!--[Redes neuronales Godot]-->
 <!--[Ejemplos de Estructuras de datos viejos c++ y matlab o algo asi]-->
 <!--[Saca los ejercicios en Octave y Matlab oke]-->
+
+
 **Herramientas:**
 
 ![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
