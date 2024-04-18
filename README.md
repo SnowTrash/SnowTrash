@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic)
 ![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)
-![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juanvargasudg/)
+![linkedinbadge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juanvargasudg/)
 <!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
 [![](https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge&link=https://snowtrash.github.io)](https://snowblog-9121b.web.app/)
 <!--[Crear un portfolio con flutter??]-->
@@ -38,9 +38,8 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
     - Ciencia de datos
     - Mate
 
-### Lenguajes y Herramientas : 
+### Herramientas : 
 
-**Lenguajes:**
 <!--[Hacer algo con D3]-->
 <!--[Hacer Charts Chidotas]-->
 
@@ -57,9 +56,6 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 <!--[Ejemplos de Estructuras de datos viejos c++ y matlab o algo asi]-->
 <!--[Saca los ejercicios en Octave y Matlab oke]-->
 
-
-**Herramientas:**
-
 ![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=red)
 [![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
 ![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)
@@ -69,11 +65,10 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 <!--Hacer Portfolio paginas de ejemplo con 3D-->
 <!--[Meter el juego en una app de flutter o ya muevele]-->
 
-**Version Control:**
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SnowTrash/SnowTrash.github.io/network)](https://github.com/SnowTrash/SnowTrash.github.io/network) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SnowTrash/SnowTrash.github.io/network)](https://github.com/SnowTrash/SnowTrash.github.io/network)
 
-### Diseño 3D
 [![Blender](https://img.shields.io/badge/Blender-060503?style=flat&logo=blender&logoColor=ff8b02&link=https:AlgunREPOSITORIOPARAMODELOS)](link)
 [![THREE.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=THREE.js&logoColor=ffffff&link=https:Agregacomponents3D)](link)
 <!--[Agregar repositorio de modelos]-->
