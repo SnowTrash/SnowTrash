@@ -1,10 +1,10 @@
 ###  Hola! me llamo [Juan Vargas](https://snowtrash.github.io)
 
 ![](https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic)
-![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)
-![[linkedinbadge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvargasudg/)
+[![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)](https://github.com/SnowTrash)
+[![linkedinbadge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvargasudg/)
 <!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
-[![](https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge&link=https://snowtrash.github.io)](https://snowblog-9121b.web.app/)
+![](https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge&link=https://snowtrash.github.io)](https://snowblog-9121b.web.app/)
 <!--[Crear un portfolio con flutter??]-->
 
 
@@ -40,9 +40,9 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 <!--[Hacer algo con D3]-->
 <!--[Hacer Charts Chidotas]-->
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SnowTrash/Iarte_2024)]
-[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)]
-[![TailwindCss](https://img.shields.io/badge/-Tailwndcss-bcbcbc?style=flat&logo=tailwindcss&logoColor=6fa8dc&link=https://github.com/SnowTrash/Iarte_2024)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SnowTrash/Iarte_2024)](link)
+[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
+[![TailwindCss](https://img.shields.io/badge/-Tailwndcss-bcbcbc?style=flat&logo=tailwindcss&logoColor=6fa8dc&link=https://github.com/SnowTrash/Iarte_2024)](link)
 
 <!--[Reconstruir el ejemplo de los tragos Python/Dash hacer mas python]-->
 
@@ -54,9 +54,9 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 <!--[Saca los ejercicios en Octave y Matlab oke]-->
 
 ![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=red)
-[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)]
-![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)
-[![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/SnowTrash.github.io)]
+[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
+[![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)](link)
+[![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/SnowTrash.github.io)](link)
 
 <!--[Vite??]-->
 <!--Hacer Portfolio paginas de ejemplo con 3D-->
