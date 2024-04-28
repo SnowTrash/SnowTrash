@@ -29,7 +29,7 @@
     }          ]
 }
 ```
-##  :calendar: Yo actualmente  ...
+##  :calendar: Soy  ...
 Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) UDG :heart: apasionado del Open source, la lectura y el mundo digital.
 
 ### :books: Estoy aprendiendo:
