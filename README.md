@@ -3,10 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic)
 [![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)](https://github.com/SnowTrash)
 [![linkedinbadge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvargasudg/)
-<!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
 [![](https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge&link=https://snowtrash.github.io)](https://snowblog-9121b.web.app/)
+<!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
 <!--[Crear un portfolio con flutter??]-->
-
 
 ```Json
 { "Lifequotes" :[
