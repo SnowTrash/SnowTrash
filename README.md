@@ -39,6 +39,11 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 <!--[Hacer algo con D3]-->
 <!--[Hacer Charts Chidotas]-->
 
+<!--![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=red)-->
+[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
+[![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)](link)
+[![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/SnowTrash.github.io)](link)
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![TailwindCss](https://img.shields.io/badge/-Tailwndcss-bcbcbc?style=flat&logo=tailwindcss&logoColor=6fa8dc&link=https://github.com/SnowTrash/Iarte_2024)](link)
@@ -47,15 +52,11 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 
 [![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)](https://github.com/SnowTrash/pyHikethroug)
 [![](https://img.shields.io/badge/-GDScript-bcbcbc?style=flat&logo=GodotEngine&logoColor=3d85c6)](https://github.com/SnowTrash/GODOTPROJECT)
-[![](https://img.shields.io/badge/C++-%7C-yellowgreen)](https://github.com/SnowTrash/AGREGACODIGOPASADO)
+<!--[[![](https://img.shields.io/badge/C++-%7C-yellowgreen)](https://github.com/SnowTrash/AGREGACODIGOPASADO)-->
 <!--[Redes neuronales Godot]-->
 <!--[Ejemplos de Estructuras de datos viejos c++ y matlab o algo asi]-->
 <!--[Saca los ejercicios en Octave y Matlab oke]-->
 
-![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=red)
-[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
-[![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)](link)
-[![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/SnowTrash.github.io)](link)
 
 <!--[Vite??]-->
 <!--Hacer Portfolio paginas de ejemplo con 3D-->
@@ -63,7 +64,6 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SnowTrash/SnowTrash.github.io/network)](https://github.com/SnowTrash/SnowTrash.github.io/network) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SnowTrash/SnowTrash.github.io/network)](https://github.com/SnowTrash/SnowTrash.github.io/network)
-
 [![Blender](https://img.shields.io/badge/Blender-060503?style=flat&logo=blender&logoColor=ff8b02&link=https:AlgunREPOSITORIOPARAMODELOS)](link)
 [![THREE.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=THREE.js&logoColor=ffffff&link=https:Agregacomponents3D)](link)
 <!--[Agregar repositorio de modelos]-->
