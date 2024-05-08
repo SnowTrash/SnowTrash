@@ -7,6 +7,17 @@
 <!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
 <!--[Crear un portfolio con flutter??]-->
 
+##  :calendar: Soy  ...
+Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) UDG :heart: apasionado del Open source, la lectura y el mundo digital.
+
+### :books: Estoy aprendiendo:
+    - Alguna cosa rara
+    - Programacion web
+    - Ciencia de datos
+
+<!--[Hacer algo con D3]-->
+<!--[Hacer Charts Chidotas]-->
+
 ```Json
 { "Lifequotes" :[
     { "Id": 001 , 
@@ -28,17 +39,6 @@
     }          ]
 }
 ```
-##  :calendar: Soy  ...
-Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) UDG :heart: apasionado del Open source, la lectura y el mundo digital.
-
-### :books: Estoy aprendiendo:
-    - Alguna cosa rara
-    - Programacion web
-    - Ciencia de datos
-
-<!--[Hacer algo con D3]-->
-<!--[Hacer Charts Chidotas]-->
-
 <!--![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=red)-->
 [![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)](link)
