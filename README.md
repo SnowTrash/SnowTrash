@@ -1,4 +1,4 @@
-###  Hola! me llamo [Juan Vargas](https://snowtrash.github.io)
+###  Hola! me llamo [Juan López](https://snowtrash.github.io)
 
 ![](https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic)
 [![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)](https://github.com/SnowTrash)
@@ -57,6 +57,7 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 <!--[Ejemplos de Estructuras de datos viejos c++ y matlab o algo asi]-->
 <!--[Saca los ejercicios en Octave y Matlab oke]-->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowTrash&hide_progress=true)
 
 <!--[Vite??]-->
 <!--Hacer Portfolio paginas de ejemplo con 3D-->
