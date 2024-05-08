@@ -1,14 +1,12 @@
-###  Hola! me llamo [Juan López](https://snowtrash.github.io)
-
 ![](https://komarev.com/ghpvc/?username=SnowTrash&label=Views&color=3399ff&style=plastic)
-[![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)](https://github.com/SnowTrash)
-[![linkedinbadge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvargasudg/)
+<!--[![githubbadge](https://img.shields.io/github/followers/SnowTrash?style=social)](https://github.com/SnowTrash)-->
+<!-- [![linkedinbadge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvargasudg/)-->
 [![](https://img.shields.io/badge/Portfolio-dev-%23000000.svg?&style=for-the-badge&link=https://snowtrash.github.io)](https://snowblog-9121b.web.app/)
-<!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve]-->
+<!--[Actualiza tu LinkedinYAAAAAAAA y crea un portfolio leve] , jeje ya hay portafolios :)-->
 <!--[Crear un portfolio con flutter??]-->
 
 ##  :calendar: Soy  ...
-Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) UDG :heart: apasionado del Open source, la lectura y el mundo digital.
+Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) UDG :heart: apasionado del Open source, la lectura y el [mundo digital](https://snowtrash.github.io).
 
 ### :books: Estoy aprendiendo:
     - Alguna cosa rara
@@ -40,8 +38,8 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 }
 ```
 <!--![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=red)-->
-[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
-[![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)](link)
+[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](https://github.com/SnowTrash/laravel10-vue3-app-template)
+[![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)](https://github.com/SnowTrash/laravel10-vue3-app-template)
 [![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/SnowTrash.github.io)](link)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SnowTrash/Iarte_2024)](link)
@@ -51,7 +49,7 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 <!--[Reconstruir el ejemplo de los tragos Python/Dash hacer mas python]-->
 
 [![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)](https://github.com/SnowTrash/pyHikethroug)
-[![](https://img.shields.io/badge/-GDScript-bcbcbc?style=flat&logo=GodotEngine&logoColor=3d85c6)](https://github.com/SnowTrash/GODOTPROJECT)
+[![](https://img.shields.io/badge/-GDScript-bcbcbc?style=flat&logo=GodotEngine&logoColor=3d85c6)](https://github.com/SnowTrash/godot-ci)
 <!--[[![](https://img.shields.io/badge/C++-%7C-yellowgreen)](https://github.com/SnowTrash/AGREGACODIGOPASADO)-->
 <!--[Redes neuronales Godot]-->
 <!--[Ejemplos de Estructuras de datos viejos c++ y matlab o algo asi]-->
