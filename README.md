@@ -38,15 +38,14 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 }
 ```
 <!--![Visual Studio code](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=red)-->
-[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](https://github.com/SnowTrash/laravel10-vue3-app-template)
+[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=Laravel&logoColor=white&link=https://github.com/SnowTrash/laravel10-vue3-app-template)](https://github.com/SnowTrash/laravel10-vue3-app-template)
 [![Vue](https://img.shields.io/badge/Vue-157f04?style=flat&logo=vite&logoColor=e4ea1a)](https://github.com/SnowTrash/laravel10-vue3-app-template)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![TailwindCss](https://img.shields.io/badge/-Tailwndcss-bcbcbc?style=flat&logo=tailwindcss&logoColor=6fa8dc&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)](https://github.com/SnowTrash/pyHikethroug)
 [![](https://img.shields.io/badge/-GDScript-bcbcbc?style=flat&logo=GodotEngine&logoColor=3d85c6)](https://github.com/SnowTrash/godot-ci)
-
-[![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/SnowTrash.github.io)](link)
+[![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/docker-android-build-box-snow)](https://github.com/SnowTrash/docker-android-build-box-snow)
 <!--[Reconstruir el ejemplo de los tragos Python/Dash hacer mas python]-->
 
 <!--[[![](https://img.shields.io/badge/C++-%7C-yellowgreen)](https://github.com/SnowTrash/AGREGACODIGOPASADO)-->
