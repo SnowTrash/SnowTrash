@@ -45,7 +45,6 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 [![TailwindCss](https://img.shields.io/badge/-Tailwndcss-bcbcbc?style=flat&logo=tailwindcss&logoColor=6fa8dc&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)](https://github.com/SnowTrash/pyHikethroug)
 [![](https://img.shields.io/badge/-GDScript-bcbcbc?style=flat&logo=GodotEngine&logoColor=3d85c6)](https://github.com/SnowTrash/godot-ci)
-[![Flutter](https://img.shields.io/badge/-Flutter-eeeeee?style=flat&logo=Flutter&logoColor=4ca4f3&link=https://github.com/SnowTrash/docker-android-build-box-snow)](https://github.com/SnowTrash/docker-android-build-box-snow)
 <!--[Reconstruir el ejemplo de los tragos Python/Dash hacer mas python]-->
 
 <!--[[![](https://img.shields.io/badge/C++-%7C-yellowgreen)](https://github.com/SnowTrash/AGREGACODIGOPASADO)-->
