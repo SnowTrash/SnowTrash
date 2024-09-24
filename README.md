@@ -6,7 +6,7 @@
 <!--[Crear un portfolio con flutter??]-->
 
 ##  :calendar:
-Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) UDG :heart: apasionado del Open source, la lectura y el [mundo digital](https://snowtrash.github.io).
+Pasante de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) apasionado del Open Source :heart:, la lectura y el [mundo digital](https://snowtrash.github.io).
 
 ### :books: Estoy aprendiendo:
     - Alguna cosa rara
@@ -44,7 +44,6 @@ Pasante (qasi_egresado) de la Licenciatura en Ingeniería Informática del Centr
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![TailwindCss](https://img.shields.io/badge/-Tailwndcss-bcbcbc?style=flat&logo=tailwindcss&logoColor=6fa8dc&link=https://github.com/SnowTrash/Iarte_2024)](link)
 [![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)](https://github.com/SnowTrash/pyHikethroug)
-[![](https://img.shields.io/badge/-GDScript-bcbcbc?style=flat&logo=GodotEngine&logoColor=3d85c6)](https://github.com/SnowTrash/godot-ci)
 <!--[Reconstruir el ejemplo de los tragos Python/Dash hacer mas python]-->
 
 <!--[[![](https://img.shields.io/badge/C++-%7C-yellowgreen)](https://github.com/SnowTrash/AGREGACODIGOPASADO)-->
