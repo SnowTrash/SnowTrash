@@ -6,7 +6,7 @@
 <!--[Crear un portfolio con flutter??]-->
 
 ##  :calendar:
-Pasante de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) apasionado del Open Source :heart:, la lectura y el [mundo digital](https://snowtrash.github.io).
+Pasante de la Licenciatura en Ingeniería Informática del Centro Universitario de Ciencias Exactas e Ingenierías(CUCEI) apasionado del Open Source :heart:, la lectura y el [mundo digital](https://snowblog-9121b.web.app/).
 
 ### :books: Estoy aprendiendo:
     - Alguna cosa rara
